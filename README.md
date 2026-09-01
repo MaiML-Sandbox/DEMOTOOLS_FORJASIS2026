@@ -63,14 +63,14 @@ Mac用と同様に、仮想環境の作成・依存パッケージのインス�
 
 ## 実行方法
 
-セットアップ完了後、`RUN/ForMacUsers/`（Windows環境<'RUN/ForWindowsUsers/`)配下の
+セットアップ完了後、`RUN/ForMacUsers/`（Windows環境< `RUN/ForWindowsUsers/`)配下の
 スクリプトを番号順に実行します。
 
 | 番号 | スクリプト | 内容 |
 |------|-----------|------|
 | 01 | `01_Excel2MaiMLProtocol.sh` / `.bat` | `DATAFILES/01_Excel2MaiMLProtocol/INPUT/` のExcelファイルからMaiML（計画情報）を生成し、`DATAFILES/01_Excel2MaiMLProtocol/OUTPUT/` に出力 |
 | 02 | `02_Excel2MaiMLData.sh` / `.bat` | 01の出力MaiMLと `DATAFILES/02_Excel2MaiMLData/INPUT/` のExcel（実測結果）をマージし、`DATAFILES/02_Excel2MaiMLData/OUTPUT/` に出力 |
-| 03 | `03_MaiMLStandaloneViewer.sh` / `.bat` | ビューア"（`HTML-MaiMLViewer.html`）を既定のブラウザで開く |
+| 03 | `03_MaiMLStandaloneViewer.sh` / `.bat` | ビューア（`HTML-MaiMLViewer.html`）を既定のブラウザで開く |
 | 05 | `05_elabftw2MaiML.sh` / `.bat` | eLabFTWの実験データ（実験ID指定）をMaiMLに変換し、`DATAFILES/05_elabftw2MaiML/MaiML/` に出力 |
 
 - 各スクリプトは `RUN/ForMacUsers/` または `RUN/ForWindowsUsers/` から実行してください（相対パスで `SRC/` を参照しています）。
