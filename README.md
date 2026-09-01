@@ -1,4 +1,4 @@
-# FORJASIS2026
+# FORJASIS2026 (期間限定公開)
 
 計測分析データを [MaiML](https://www.jaima.or.jp/)（JIS K 0200 / MaiML-Schema-1_0）形式で
 作成・変換・可視化するためのツール一式をまとめたハンズオン用パッケージです。
