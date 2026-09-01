@@ -1,7 +1,7 @@
 # FORJASIS2026 (期間限定公開)
 
 計測分析データを [MaiML](https://www.jaima.or.jp/)（JIS K 0200 / MaiML-Schema-1_0）形式で
-作成・変換・可視化するためのツール一式をまとめたハンズオン用パッケージです。
+作成・変換・可視化するためのツール一式をまとめたDEMO用パッケージです。
 
 Excelで記載した実験計画・実験結果をMaiMLファイルに変換するツールと、eLabFTWの実験記録を
 MaiMLに変換するツール、生成したMaiMLファイルをブラウザ上で可視化するViewerの、
@@ -15,7 +15,7 @@ FORJASIS2026/
 │   ├── ForMacUsers/        Mac用セットアップスクリプト
 │   ├── ForWindowsUsers/    Windows用セットアップスクリプト
 │   ├── requirements.txt    共通のPython依存パッケージ
-│   └── DATAFILES.zip       ハンズオン用サンプルデータ
+│   └── DATAFILES.zip       DEMO用サンプルデータ
 ├── RUN/                    各ツールの実行用スクリプト
 │   ├── ForMacUsers/        Mac用実行スクリプト（.sh）
 │   └── ForWindowsUsers/    Windows用実行スクリプト（.bat）
