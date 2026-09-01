@@ -63,7 +63,7 @@ Mac用と同様に、仮想環境の作成・依存パッケージのインス�
 
 ## 実行方法
 
-セットアップ完了後、`RUN/ForMacUsers/`（Windowsか�n<RUN/ForWindowsUsers/`)配下の
+セットアップ完了後、`RUN/ForMacUsers/`（Windows環境<'RUN/ForWindowsUsers/`)配下の
 スクリプトを番号順に実行します。
 
 | 番号 | スクリプト | 内容 |
@@ -86,6 +86,4 @@ Mac用と同様に、仮想環境の作成・依存パッケージのインス�
 ## 注意事項
 
 - elabftw2MaiML（05）はeLabFTWに対して読み取り専用でアクセスします（書き込み・更新は行いません）。
-- elabftw2MaiMLは eLabFTW / Deltablot社とは無関係な非公式ツールです。また、MaiML/JIS K 0200に
-  ついても、JAIMAや経済産業省とは無関係に公開仕様を基に独自実装したものです。
 - 各ツールの最新版・詳細ドキュメントは、上記GitHubリポジトリを参照してください。
