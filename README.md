@@ -1,2 +1,2 @@
 # DEMOTOOLS_FORJASIS2026
-JASIS2026でDEMOに用いたツールセット
+JASIS2026でDEMOに用いたツールセットを期間限定で公開します。
